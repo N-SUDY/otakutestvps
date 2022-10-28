@@ -15,6 +15,6 @@ UPLOADS_ID = int(getenv("UPLOADS_ID", "-1001730395459"))
 STATUS_ID = int(getenv("STATUS_ID", "8"))
 SCHEDULE_ID = int(getenv("SCHEDULE_ID", "10"))
 
-CHANNEL_TITLE = getenv("CHANNEL_TITLE", "")
+CHANNEL_TITLE = getenv("CHANNEL_TITLE", "AnimeAuto")
 INDEX_USERNAME = getenv("INDEX_USERNAME", "")
 UPLOADS_USERNAME = getenv("UPLOADS_USERNAME", "")
