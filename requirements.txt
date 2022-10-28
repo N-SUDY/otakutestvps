@@ -1,0 +1,14 @@
+pyrogram
+TgCrypto
+aiohttp
+python-dotenv
+feedparser
+libtorrent
+pillow
+requests
+bs4
+uvloop
+motor
+dnspython
+opencv-python-headless
+aiofiles
