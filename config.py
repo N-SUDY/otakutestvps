@@ -5,7 +5,7 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID", 17894641))
 API_HASH = getenv("API_HASH", "4e5b39e5c7c6066e5144dfc50cf466cf")
-BOT_TOKEN = getenv("BOT_TOKEN", "5719320457:AAFgLTXbT_vop74IxnfPXRYZK_xaQBlmpyE")
+BOT_TOKEN = getenv("BOT_TOKEN", "5717806604:AAFE6aBBpUt3hyTHk_72yqKh7aiWm_eNpJE")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://AutoAnime:AutoAnime@autoanime.f8ahzhs.mongodb.net/?retryWrites=true&w=majority")
 
